@@ -1,3 +1,5 @@
+#Hello world 
+print("Hello world")
 from asyncio.windows_utils import pipe
 from tkinter import CENTER
 import pygame, random
